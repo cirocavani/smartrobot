@@ -1,3 +1,3 @@
-# Programmable Matter Website
+# Smart Robot Website
 
-Conceptual Startup.
+Autonomous Embodied AI concept.
